@@ -12,6 +12,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0137-single-number-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/alok4711/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/alok4711/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/alok4711/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -92,4 +93,8 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/alok4711/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/alok4711/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
