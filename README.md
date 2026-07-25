@@ -10,6 +10,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0135-candy](https://github.com/alok4711/leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/alok4711/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/alok4711/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 ## Greedy
 |  |
 | ------- |
@@ -25,6 +26,7 @@ Collection of LeetCode problem solutions with code in Java.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/alok4711/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/alok4711/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 ## Linked List
 |  |
 | ------- |
@@ -76,5 +78,10 @@ Collection of LeetCode problem solutions with code in Java.
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/alok4711/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [3536-maximum-product-of-two-digits](https://github.com/alok4711/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/alok4711/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
