@@ -68,8 +68,13 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/alok4711/leetcode-solutions/tree/master/0148-sort-list) |
+| [3536-maximum-product-of-two-digits](https://github.com/alok4711/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/alok4711/leetcode-solutions/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/alok4711/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
