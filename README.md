@@ -53,6 +53,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0143-reorder-list](https://github.com/alok4711/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/alok4711/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/alok4711/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/alok4711/leetcode-solutions/tree/master/0155-min-stack) |
 ## Recursion
 |  |
 | ------- |
@@ -107,4 +108,8 @@ Collection of LeetCode problem solutions with code in Java.
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/alok4711/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/alok4711/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
