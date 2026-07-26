@@ -13,6 +13,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0149-max-points-on-a-line](https://github.com/alok4711/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/alok4711/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/alok4711/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/alok4711/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Greedy
 |  |
@@ -100,4 +101,8 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/alok4711/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/alok4711/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
