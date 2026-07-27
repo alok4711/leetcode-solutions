@@ -11,24 +11,34 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        Stack<ListNode> sA=new Stack<>();
-        Stack<ListNode> sB=new Stack<>();
+        // Stack<ListNode> sA=new Stack<>();
+        // Stack<ListNode> sB=new Stack<>();
+        // while(headA!=null){
+        //     sA.push(headA);
+        //     headA=headA.next;
+        // }
+        // while(headB!=null){
+        //     sB.push(headB);
+        //     headB=headB.next;
+        // }
+        // ListNode ans=null;
+        // while(sA.peek()==sB.peek()){
+        //     ans=sA.pop();
+        //     sB.pop();
+        //     if(sA.isEmpty() || sB.isEmpty()){
+        //         return ans;
+        //     }
+        // }
+        // return sA.pop().next;
+        HashSet<ListNode> hs=new HashSet<>();
         while(headA!=null){
-            sA.push(headA);
+            hs.add(headA);
             headA=headA.next;
         }
         while(headB!=null){
-            sB.push(headB);
+            if(hs.contains(headB)) return headB;
             headB=headB.next;
         }
-        ListNode ans=null;
-        while(sA.peek()==sB.peek()){
-            ans=sA.pop();
-            sB.pop();
-            if(sA.isEmpty() || sB.isEmpty()){
-                return ans;
-            }
-        }
-        return sA.pop().next;
+        return null;
     }
 }
