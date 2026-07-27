@@ -66,6 +66,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0144-binary-tree-preorder-traversal](https://github.com/alok4711/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/alok4711/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/alok4711/leetcode-solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 ## Recursion
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/alok4711/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -82,6 +84,7 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/alok4711/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -138,6 +141,7 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/alok4711/leetcode-solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -154,4 +158,12 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/alok4711/leetcode-solutions/tree/master/0169-majority-element) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
