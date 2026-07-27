@@ -18,6 +18,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0162-find-peak-element](https://github.com/alok4711/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/alok4711/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0148-sort-list](https://github.com/alok4711/leetcode-solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/alok4711/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/alok4711/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Merge Sort
 |  |
@@ -127,4 +129,8 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/alok4711/leetcode-solutions/tree/master/0164-maximum-gap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
