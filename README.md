@@ -18,6 +18,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0162-find-peak-element](https://github.com/alok4711/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/alok4711/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alok4711/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/alok4711/leetcode-solutions/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
@@ -38,6 +39,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0149-max-points-on-a-line](https://github.com/alok4711/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/alok4711/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/alok4711/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/alok4711/leetcode-solutions/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -84,11 +86,13 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/alok4711/leetcode-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/alok4711/leetcode-solutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/alok4711/leetcode-solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/alok4711/leetcode-solutions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/alok4711/leetcode-solutions/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/alok4711/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -143,4 +147,8 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/alok4711/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
