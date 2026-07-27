@@ -17,6 +17,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/alok4711/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/alok4711/leetcode-solutions/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/alok4711/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
@@ -55,6 +56,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0151-reverse-words-in-a-string](https://github.com/alok4711/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/alok4711/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/alok4711/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Stack
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/alok4711/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/alok4711/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/alok4711/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Design
 |  |
 | ------- |
