@@ -36,6 +36,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0142-linked-list-cycle-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/alok4711/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/alok4711/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/alok4711/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 ## Linked List
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Collection of LeetCode problem solutions with code in Java.
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/alok4711/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/alok4711/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/alok4711/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/alok4711/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Geometry
@@ -109,6 +111,7 @@ Collection of LeetCode problem solutions with code in Java.
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/alok4711/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/alok4711/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 ## Dynamic Programming
 |  |
 | ------- |
