@@ -166,4 +166,8 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/alok4711/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
