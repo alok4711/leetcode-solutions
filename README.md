@@ -180,6 +180,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0177-nth-highest-salary](https://github.com/alok4711/leetcode-solutions/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/alok4711/leetcode-solutions/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0180-consecutive-numbers) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/alok4711/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/alok4711/leetcode-solutions/tree/master/0182-duplicate-emails) |
 ## Counting Sort
 |  |
