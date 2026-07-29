@@ -34,6 +34,7 @@ Collection of LeetCode problem solutions with code in Java.
 | ------- |
 | [0136-single-number](https://github.com/alok4711/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/alok4711/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Collection of LeetCode problem solutions with code in Java.
 | ------- |
 | [0148-sort-list](https://github.com/alok4711/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/alok4711/leetcode-solutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/alok4711/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
