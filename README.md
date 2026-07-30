@@ -48,6 +48,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0166-fraction-to-recurring-decimal](https://github.com/alok4711/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/alok4711/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/alok4711/leetcode-solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/alok4711/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
@@ -149,6 +150,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0168-excel-sheet-column-title](https://github.com/alok4711/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/alok4711/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/alok4711/leetcode-solutions/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/alok4711/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/alok4711/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/alok4711/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
