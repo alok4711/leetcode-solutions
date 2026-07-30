@@ -22,6 +22,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0179-largest-number](https://github.com/alok4711/leetcode-solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/alok4711/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/alok4711/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/alok4711/leetcode-solutions/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
@@ -129,6 +130,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0172-factorial-trailing-zeroes](https://github.com/alok4711/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/alok4711/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/alok4711/leetcode-solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/alok4711/leetcode-solutions/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/alok4711/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -222,4 +224,12 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/alok4711/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/alok4711/leetcode-solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/alok4711/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
