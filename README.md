@@ -21,6 +21,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0169-majority-element](https://github.com/alok4711/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/alok4711/leetcode-solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/alok4711/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/alok4711/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
@@ -86,6 +87,7 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/alok4711/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/alok4711/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -203,4 +205,16 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/alok4711/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/alok4711/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/alok4711/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
