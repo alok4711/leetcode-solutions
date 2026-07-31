@@ -140,6 +140,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0189-rotate-array](https://github.com/alok4711/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/alok4711/leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/alok4711/leetcode-solutions/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/alok4711/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/alok4711/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -148,6 +149,7 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/alok4711/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/alok4711/leetcode-solutions/tree/master/0223-rectangle-area) |
 ## String
 |  |
 | ------- |
