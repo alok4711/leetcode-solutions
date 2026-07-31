@@ -23,6 +23,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0189-rotate-array](https://github.com/alok4711/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/alok4711/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/alok4711/leetcode-solutions/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/alok4711/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
@@ -167,6 +168,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/alok4711/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alok4711/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/alok4711/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Design
 |  |
 | ------- |
@@ -239,4 +241,12 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/alok4711/leetcode-solutions/tree/master/0204-count-primes) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/alok4711/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/alok4711/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
