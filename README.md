@@ -100,6 +100,7 @@ Collection of LeetCode problem solutions with code in Java.
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/alok4711/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/alok4711/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/alok4711/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Binary Tree
 |  |
 | ------- |
@@ -157,6 +158,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0171-excel-sheet-column-number](https://github.com/alok4711/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/alok4711/leetcode-solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/alok4711/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/alok4711/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/alok4711/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/alok4711/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -178,6 +180,7 @@ Collection of LeetCode problem solutions with code in Java.
 | ------- |
 | [0155-min-stack](https://github.com/alok4711/leetcode-solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/alok4711/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -254,4 +257,8 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/alok4711/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/alok4711/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
