@@ -96,17 +96,20 @@ Collection of LeetCode problem solutions with code in Java.
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/alok4711/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0226-invert-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/alok4711/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/alok4711/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/alok4711/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0226-invert-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/alok4711/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0226-invert-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -237,6 +240,7 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/alok4711/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
