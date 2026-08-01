@@ -97,6 +97,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0203-remove-linked-list-elements](https://github.com/alok4711/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/alok4711/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/alok4711/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/alok4711/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 ## Tree
 |  |
 | ------- |
@@ -156,6 +157,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0204-count-primes](https://github.com/alok4711/leetcode-solutions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/alok4711/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/alok4711/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/alok4711/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/alok4711/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -184,6 +186,7 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/alok4711/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0233-number-of-digit-one](https://github.com/alok4711/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 ## Binary Search
 |  |
 | ------- |
