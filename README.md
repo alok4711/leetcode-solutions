@@ -42,6 +42,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0136-single-number](https://github.com/alok4711/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/alok4711/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/alok4711/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0143-reorder-list](https://github.com/alok4711/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/alok4711/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/alok4711/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/alok4711/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Tree
 |  |
 | ------- |
@@ -152,6 +154,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0202-happy-number](https://github.com/alok4711/leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/alok4711/leetcode-solutions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/alok4711/leetcode-solutions/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/alok4711/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/alok4711/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
