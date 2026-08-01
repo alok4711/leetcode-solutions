@@ -84,6 +84,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0150-evaluate-reverse-polish-notation](https://github.com/alok4711/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/alok4711/leetcode-solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/alok4711/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 ## Recursion
 |  |
 | ------- |
@@ -183,6 +184,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0155-min-stack](https://github.com/alok4711/leetcode-solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/alok4711/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/alok4711/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -263,4 +265,8 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/alok4711/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/alok4711/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
