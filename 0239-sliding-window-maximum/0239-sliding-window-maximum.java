@@ -1,5 +1,16 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
+        // int n=nums.length;
+        // int[] ans=new int[n-k+1];
+        // for(int i=0; i<ans.length; i++){
+        //     int max=nums[i];
+        //     for(int j=i+1; j<i+k; j++){
+        //         if(max<nums[j]) max=nums[j];
+        //     }
+        //     ans[i]=max;
+        // }
+        // return ans;
+
         int n=nums.length;
         int[] ans=new int[n-k+1];
         Deque<Integer> dq = new LinkedList<>();
