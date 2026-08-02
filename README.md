@@ -184,6 +184,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0231-power-of-two](https://github.com/alok4711/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/alok4711/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/alok4711/leetcode-solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/alok4711/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/alok4711/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
