@@ -119,6 +119,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/alok4711/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/alok4711/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/alok4711/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/alok4711/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -138,6 +140,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/alok4711/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/alok4711/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -200,6 +203,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0205-isomorphic-strings](https://github.com/alok4711/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/alok4711/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/alok4711/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/alok4711/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/alok4711/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/alok4711/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -329,4 +333,8 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/alok4711/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
