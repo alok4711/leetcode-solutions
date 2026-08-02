@@ -6,6 +6,7 @@ Collection of LeetCode problem solutions with code in Java.
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/alok4711/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0134-gas-station](https://github.com/alok4711/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/alok4711/leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/alok4711/leetcode-solutions/tree/master/0136-single-number) |
@@ -47,6 +48,7 @@ Collection of LeetCode problem solutions with code in Java.
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/alok4711/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/alok4711/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/alok4711/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
