@@ -26,6 +26,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0209-minimum-size-subarray-sum](https://github.com/alok4711/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/alok4711/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/alok4711/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
@@ -294,6 +295,7 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/alok4711/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/alok4711/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 ## Trie
 |  |
 | ------- |
