@@ -64,6 +64,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0205-isomorphic-strings](https://github.com/alok4711/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/alok4711/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
@@ -185,6 +186,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0233-number-of-digit-one](https://github.com/alok4711/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/alok4711/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/alok4711/leetcode-solutions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/alok4711/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -217,6 +219,7 @@ Collection of LeetCode problem solutions with code in Java.
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/alok4711/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/alok4711/leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [0264-ugly-number-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
@@ -247,6 +250,7 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/alok4711/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
