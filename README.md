@@ -35,6 +35,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0274-h-index](https://github.com/alok4711/leetcode-solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/alok4711/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/alok4711/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -55,6 +56,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0231-power-of-two](https://github.com/alok4711/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/alok4711/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/alok4711/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/alok4711/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +102,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0202-happy-number](https://github.com/alok4711/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/alok4711/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/alok4711/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/alok4711/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -248,6 +251,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0268-missing-number](https://github.com/alok4711/leetcode-solutions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/alok4711/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/alok4711/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
@@ -375,4 +379,12 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/alok4711/leetcode-solutions/tree/master/0278-first-bad-version) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/alok4711/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/alok4711/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
