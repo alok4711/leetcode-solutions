@@ -243,6 +243,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0240-search-a-2d-matrix-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/alok4711/leetcode-solutions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/alok4711/leetcode-solutions/tree/master/0278-first-bad-version) |
 ## Design
 |  |
 | ------- |
@@ -365,4 +366,8 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/alok4711/leetcode-solutions/tree/master/0258-add-digits) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/alok4711/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
