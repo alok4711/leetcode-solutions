@@ -32,6 +32,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0240-search-a-2d-matrix-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/alok4711/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/alok4711/leetcode-solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/alok4711/leetcode-solutions/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -165,6 +166,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0229-majority-element-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/alok4711/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/alok4711/leetcode-solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/alok4711/leetcode-solutions/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -296,6 +298,7 @@ Collection of LeetCode problem solutions with code in Java.
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/alok4711/leetcode-solutions/tree/master/0274-h-index) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/alok4711/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Combinatorics
 |  |
