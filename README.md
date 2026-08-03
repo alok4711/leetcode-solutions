@@ -31,6 +31,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0239-sliding-window-maximum](https://github.com/alok4711/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/alok4711/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/alok4711/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -50,6 +51,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0191-number-of-1-bits](https://github.com/alok4711/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/alok4711/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/alok4711/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/alok4711/leetcode-solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +67,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0229-majority-element-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/alok4711/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/alok4711/leetcode-solutions/tree/master/0268-missing-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
@@ -160,6 +163,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0179-largest-number](https://github.com/alok4711/leetcode-solutions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/alok4711/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/alok4711/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -187,6 +191,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0258-add-digits](https://github.com/alok4711/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/alok4711/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/alok4711/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/alok4711/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -230,6 +235,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alok4711/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/alok4711/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/alok4711/leetcode-solutions/tree/master/0268-missing-number) |
 ## Design
 |  |
 | ------- |
