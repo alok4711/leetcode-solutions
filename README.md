@@ -279,6 +279,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0184-department-highest-salary](https://github.com/alok4711/leetcode-solutions/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/alok4711/leetcode-solutions/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/alok4711/leetcode-solutions/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/alok4711/leetcode-solutions/tree/master/0262-trips-and-users) |
 ## Counting Sort
 |  |
 | ------- |
