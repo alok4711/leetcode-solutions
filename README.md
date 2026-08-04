@@ -205,6 +205,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0268-missing-number](https://github.com/alok4711/leetcode-solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/alok4711/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/alok4711/leetcode-solutions/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/alok4711/leetcode-solutions/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/alok4711/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -369,6 +370,7 @@ Collection of LeetCode problem solutions with code in Java.
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/alok4711/leetcode-solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
@@ -392,4 +394,20 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/alok4711/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/alok4711/leetcode-solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/alok4711/leetcode-solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/alok4711/leetcode-solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/alok4711/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
