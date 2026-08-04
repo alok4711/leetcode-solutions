@@ -37,6 +37,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0283-move-zeroes](https://github.com/alok4711/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/alok4711/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/alok4711/leetcode-solutions/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/alok4711/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -250,6 +251,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0152-maximum-product-subarray](https://github.com/alok4711/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/alok4711/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/alok4711/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
@@ -264,6 +266,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0275-h-index-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/alok4711/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/alok4711/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/alok4711/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Design
 |  |
 | ------- |
@@ -427,4 +430,8 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/alok4711/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/alok4711/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
