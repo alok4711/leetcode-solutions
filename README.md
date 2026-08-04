@@ -74,6 +74,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0242-valid-anagram](https://github.com/alok4711/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/alok4711/leetcode-solutions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/alok4711/leetcode-solutions/tree/master/0290-word-pattern) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
@@ -229,6 +230,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0257-binary-tree-paths](https://github.com/alok4711/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/alok4711/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/alok4711/leetcode-solutions/tree/master/0282-expression-add-operators) |
+| [0290-word-pattern](https://github.com/alok4711/leetcode-solutions/tree/master/0290-word-pattern) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/alok4711/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/alok4711/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
