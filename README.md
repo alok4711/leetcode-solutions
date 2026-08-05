@@ -42,6 +42,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0304-range-sum-query-2d-immutable](https://github.com/alok4711/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/alok4711/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0313-super-ugly-number](https://github.com/alok4711/leetcode-solutions/tree/master/0313-super-ugly-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/alok4711/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -175,6 +176,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0191-number-of-1-bits](https://github.com/alok4711/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/alok4711/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/alok4711/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Sorting
 |  |
 | ------- |
@@ -196,6 +198,7 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/alok4711/leetcode-solutions/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/alok4711/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Math
 |  |
 | ------- |
@@ -274,6 +277,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0278-first-bad-version](https://github.com/alok4711/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/alok4711/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/alok4711/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/alok4711/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Design
 |  |
 | ------- |
@@ -451,12 +455,22 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/alok4711/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/alok4711/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/alok4711/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/alok4711/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Sqrt Decomposition
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/alok4711/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/alok4711/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/alok4711/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
