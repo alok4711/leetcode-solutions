@@ -41,6 +41,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0303-range-sum-query-immutable](https://github.com/alok4711/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/alok4711/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/alok4711/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+| [0313-super-ugly-number](https://github.com/alok4711/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -217,6 +218,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0273-integer-to-english-words](https://github.com/alok4711/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/alok4711/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/alok4711/leetcode-solutions/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/alok4711/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/alok4711/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -256,6 +258,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0233-number-of-digit-one](https://github.com/alok4711/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/alok4711/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0313-super-ugly-number](https://github.com/alok4711/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
