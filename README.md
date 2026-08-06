@@ -45,6 +45,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0315-count-of-smaller-numbers-after-self](https://github.com/alok4711/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/alok4711/leetcode-solutions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -162,6 +163,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/alok4711/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -272,6 +274,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0300-longest-increasing-subsequence](https://github.com/alok4711/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/alok4711/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/alok4711/leetcode-solutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
@@ -365,6 +368,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0226-invert-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/alok4711/leetcode-solutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Union-Find
 |  |
 | ------- |
@@ -376,6 +380,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0240-search-a-2d-matrix-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/alok4711/leetcode-solutions/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/alok4711/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Enumeration
 |  |
 | ------- |
@@ -497,4 +502,20 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
