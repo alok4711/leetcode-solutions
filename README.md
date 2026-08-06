@@ -43,6 +43,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0307-range-sum-query-mutable](https://github.com/alok4711/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0313-super-ugly-number](https://github.com/alok4711/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/alok4711/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/alok4711/leetcode-solutions/tree/master/0322-coin-change) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -263,6 +264,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0264-ugly-number-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/alok4711/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/alok4711/leetcode-solutions/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/alok4711/leetcode-solutions/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
@@ -355,6 +357,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0200-number-of-islands](https://github.com/alok4711/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/alok4711/leetcode-solutions/tree/master/0322-coin-change) |
 ## Union-Find
 |  |
 | ------- |
@@ -475,4 +478,12 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/alok4711/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/alok4711/leetcode-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/alok4711/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
