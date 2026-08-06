@@ -129,6 +129,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0225-implement-stack-using-queues](https://github.com/alok4711/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/alok4711/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/alok4711/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/alok4711/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -175,6 +177,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/alok4711/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -261,6 +264,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0290-word-pattern](https://github.com/alok4711/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/alok4711/leetcode-solutions/tree/master/0299-bulls-and-cows) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/alok4711/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/alok4711/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
