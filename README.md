@@ -131,6 +131,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0232-implement-queue-using-stacks](https://github.com/alok4711/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/alok4711/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0341-flatten-nested-list-iterator) |
 ## Recursion
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/alok4711/leetcode-solutions/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0341-flatten-nested-list-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -169,6 +171,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/alok4711/leetcode-solutions/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0341-flatten-nested-list-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -314,6 +317,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0303-range-sum-query-immutable](https://github.com/alok4711/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/alok4711/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/alok4711/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+| [0341-flatten-nested-list-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0341-flatten-nested-list-iterator) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -347,6 +351,7 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0341-flatten-nested-list-iterator) |
 ## Database
 |  |
 | ------- |
@@ -422,6 +427,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0225-implement-stack-using-queues](https://github.com/alok4711/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/alok4711/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/alok4711/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0341-flatten-nested-list-iterator) |
 ## Monotonic Queue
 |  |
 | ------- |
