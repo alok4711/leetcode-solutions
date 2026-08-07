@@ -248,6 +248,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0319-bulb-switcher](https://github.com/alok4711/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/alok4711/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/alok4711/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/alok4711/leetcode-solutions/tree/master/0343-integer-break) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/alok4711/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -293,6 +294,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/alok4711/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/alok4711/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/alok4711/leetcode-solutions/tree/master/0343-integer-break) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
