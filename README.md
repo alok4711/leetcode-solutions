@@ -68,6 +68,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0260-single-number-iii](https://github.com/alok4711/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/alok4711/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/alok4711/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/alok4711/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -283,6 +284,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0322-coin-change](https://github.com/alok4711/leetcode-solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/alok4711/leetcode-solutions/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/alok4711/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
