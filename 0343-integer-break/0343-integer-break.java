@@ -1,5 +1,5 @@
 class Solution {
-    static int[] dp;
+    int[] dp;
     public int integerBreak(int n) {
         dp=new int[n+1];
         return helper(n);
