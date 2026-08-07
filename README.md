@@ -70,6 +70,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0268-missing-number](https://github.com/alok4711/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/alok4711/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/alok4711/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/alok4711/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0234-palindrome-linked-list](https://github.com/alok4711/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/alok4711/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/alok4711/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/alok4711/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Tree
 |  |
 | ------- |
@@ -245,6 +247,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0313-super-ugly-number](https://github.com/alok4711/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/alok4711/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/alok4711/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/alok4711/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/alok4711/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
