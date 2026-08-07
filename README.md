@@ -46,6 +46,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0322-coin-change](https://github.com/alok4711/leetcode-solutions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/alok4711/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
@@ -89,6 +90,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0268-missing-number](https://github.com/alok4711/leetcode-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/alok4711/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/alok4711/leetcode-solutions/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/alok4711/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
@@ -200,6 +202,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0307-range-sum-query-mutable](https://github.com/alok4711/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/alok4711/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/alok4711/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -213,6 +216,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0274-h-index](https://github.com/alok4711/leetcode-solutions/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/alok4711/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/alok4711/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -334,6 +338,7 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/alok4711/leetcode-solutions/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/alok4711/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -344,6 +349,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0239-sliding-window-maximum](https://github.com/alok4711/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/alok4711/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/alok4711/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
@@ -352,6 +358,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0169-majority-element](https://github.com/alok4711/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/alok4711/leetcode-solutions/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/alok4711/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search Tree
@@ -532,6 +539,7 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/alok4711/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Graph Theory
 |  |
 | ------- |
