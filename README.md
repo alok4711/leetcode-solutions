@@ -47,6 +47,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0324-wiggle-sort-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/alok4711/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/alok4711/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
@@ -91,6 +92,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0290-word-pattern](https://github.com/alok4711/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/alok4711/leetcode-solutions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/alok4711/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/alok4711/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/alok4711/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
@@ -125,6 +127,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0295-find-median-from-data-stream](https://github.com/alok4711/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/alok4711/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/alok4711/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/alok4711/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -217,6 +220,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0295-find-median-from-data-stream](https://github.com/alok4711/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/alok4711/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/alok4711/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -319,6 +323,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0287-find-the-duplicate-number](https://github.com/alok4711/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/alok4711/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/alok4711/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0349-intersection-of-two-arrays](https://github.com/alok4711/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Design
 |  |
