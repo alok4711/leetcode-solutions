@@ -267,6 +267,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0342-power-of-four](https://github.com/alok4711/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/alok4711/leetcode-solutions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/alok4711/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0367-valid-perfect-square](https://github.com/alok4711/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/alok4711/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -334,6 +335,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0315-count-of-smaller-numbers-after-self](https://github.com/alok4711/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/alok4711/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/alok4711/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Design
 |  |
