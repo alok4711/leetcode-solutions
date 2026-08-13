@@ -497,6 +497,7 @@ Collection of LeetCode problem solutions with code in Java.
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/alok4711/leetcode-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/alok4711/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Brainteaser
 |  |
