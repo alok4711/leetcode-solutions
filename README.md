@@ -187,6 +187,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/alok4711/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0341-flatten-nested-list-iterator) |
+| [0743-network-delay-time](https://github.com/alok4711/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -368,6 +369,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0295-find-median-from-data-stream](https://github.com/alok4711/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/alok4711/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0743-network-delay-time](https://github.com/alok4711/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/alok4711/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
@@ -421,6 +423,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/alok4711/leetcode-solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0743-network-delay-time](https://github.com/alok4711/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Union-Find
 |  |
 | ------- |
@@ -563,6 +566,7 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0743-network-delay-time](https://github.com/alok4711/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -579,4 +583,12 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/alok4711/leetcode-solutions/tree/master/0337-house-robber-iii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/alok4711/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/alok4711/leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
