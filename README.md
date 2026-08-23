@@ -113,6 +113,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0234-palindrome-linked-list](https://github.com/alok4711/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/alok4711/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/alok4711/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/alok4711/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0345-reverse-vowels-of-a-string](https://github.com/alok4711/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/alok4711/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/alok4711/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -147,6 +149,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0234-palindrome-linked-list](https://github.com/alok4711/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0341-flatten-nested-list-iterator) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/alok4711/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
