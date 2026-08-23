@@ -7,6 +7,7 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/alok4711/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/alok4711/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0134-gas-station](https://github.com/alok4711/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/alok4711/leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/alok4711/leetcode-solutions/tree/master/0136-single-number) |
@@ -243,6 +244,7 @@ Collection of LeetCode problem solutions with code in Java.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/alok4711/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0149-max-points-on-a-line](https://github.com/alok4711/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/alok4711/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/alok4711/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -432,6 +434,7 @@ Collection of LeetCode problem solutions with code in Java.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/alok4711/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/alok4711/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/alok4711/leetcode-solutions/tree/master/0289-game-of-life) |
