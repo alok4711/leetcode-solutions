@@ -179,6 +179,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/alok4711/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0341-flatten-nested-list-iterator) |
+| [0404-sum-of-left-leaves](https://github.com/alok4711/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -195,6 +196,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/alok4711/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0341-flatten-nested-list-iterator) |
+| [0404-sum-of-left-leaves](https://github.com/alok4711/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0743-network-delay-time](https://github.com/alok4711/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
@@ -211,6 +213,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/alok4711/leetcode-solutions/tree/master/0337-house-robber-iii) |
+| [0404-sum-of-left-leaves](https://github.com/alok4711/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -437,6 +440,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/alok4711/leetcode-solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alok4711/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0404-sum-of-left-leaves](https://github.com/alok4711/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0743-network-delay-time](https://github.com/alok4711/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Union-Find
 |  |
