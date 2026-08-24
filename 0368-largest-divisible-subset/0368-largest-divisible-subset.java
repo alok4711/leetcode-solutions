@@ -1,47 +1,42 @@
 class Solution {
+
+    List<Integer>[][] memo;
+
     public List<Integer> largestDivisibleSubset(int[] nums) {
-
         Arrays.sort(nums);
-
+        
         int n = nums.length;
 
-        int[] dp = new int[n];
-        int[] parent = new int[n];
+        memo = new ArrayList[n][n + 1];
 
-        Arrays.fill(dp, 1);
-        Arrays.fill(parent, -1);
+        return helper(nums, 0, -1);
+    }
+    List<Integer> helper(int[] nums, int idx, int prev){
+        if (idx == nums.length) {
+            return new ArrayList<>();
+        }
+        
+        if (memo[idx][prev + 1] != null) {
+            return memo[idx][prev + 1];
+        }
 
-        int maxLen = 1;
-        int lastIndex = 0;
+        List<Integer> skip = helper(nums, idx + 1, prev);
 
-        for (int i = 0; i < n; i++) {
+        List<Integer> best = skip;
 
-            for (int j = 0; j < i; j++) {
+        if (prev == -1 || nums[idx] % nums[prev] == 0) {
 
-                if (nums[i] % nums[j] == 0) {
+            List<Integer> take = new ArrayList<>(helper(nums, idx + 1, idx));
 
-                    if (dp[j] + 1 > dp[i]) {
-                        dp[i] = dp[j] + 1;
-                        parent[i] = j;
-                    }
-                }
-            }
+            take.add(0, nums[idx]);
 
-            if (dp[i] > maxLen) {
-                maxLen = dp[i];
-                lastIndex = i;
+            if (take.size() > best.size()) {
+                best = take;
             }
         }
 
-        List<Integer> ans = new ArrayList<>();
+        memo[idx][prev + 1] = best;
 
-        while (lastIndex != -1) {
-            ans.add(nums[lastIndex]);
-            lastIndex = parent[lastIndex];
-        }
-
-        Collections.reverse(ans);
-
-        return ans;
+        return best;
     }
 }
