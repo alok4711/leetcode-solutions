@@ -166,6 +166,7 @@ Collection of LeetCode problem solutions with code in Java.
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/alok4711/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/alok4711/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -183,6 +184,7 @@ Collection of LeetCode problem solutions with code in Java.
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/alok4711/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/alok4711/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/alok4711/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -201,6 +203,7 @@ Collection of LeetCode problem solutions with code in Java.
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/alok4711/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/alok4711/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/alok4711/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -434,6 +437,7 @@ Collection of LeetCode problem solutions with code in Java.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/alok4711/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/alok4711/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/alok4711/leetcode-solutions/tree/master/0226-invert-binary-tree) |
