@@ -229,6 +229,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0315-count-of-smaller-numbers-after-self](https://github.com/alok4711/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/alok4711/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/alok4711/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/alok4711/leetcode-solutions/tree/master/0372-super-pow) |
 ## Sorting
 |  |
 | ------- |
@@ -289,6 +290,7 @@ Collection of LeetCode problem solutions with code in Java.
 | [0357-count-numbers-with-unique-digits](https://github.com/alok4711/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/alok4711/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/alok4711/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0372-super-pow](https://github.com/alok4711/leetcode-solutions/tree/master/0372-super-pow) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alok4711/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/alok4711/leetcode-solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/alok4711/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -618,4 +620,12 @@ Collection of LeetCode problem solutions with code in Java.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/alok4711/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/alok4711/leetcode-solutions/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/alok4711/leetcode-solutions/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
